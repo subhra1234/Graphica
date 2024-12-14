@@ -1,5 +1,5 @@
-# This is a android graphing calculator inspired by Demos
+# This is a android graphing calculator inspired by Desmos
 ## Abilities
 - Plot functions
 - Plot Data Points
-- Plot Complex Functions as fields
+- Plot Complex Fields
